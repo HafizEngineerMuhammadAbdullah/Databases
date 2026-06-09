@@ -1,0 +1,52 @@
+-- INSERT INTO users (name, email, gender, date_of_birth, salary)
+-- VALUES
+-- ('Ali Khan', 'ali.khan@example.com', 'Male', '1998-05-12', 45000.00),
+-- ('Sara Ahmed', 'sara.ahmed@example.com', 'Female', '2000-09-21', 52000.50),
+-- ('Usman Tariq', 'usman.tariq@example.com', 'Male', '1997-11-08', 60000.00),
+-- ('Ayesha Malik', 'ayesha.malik@example.com', 'Female', '1999-02-14', 48000.75),
+-- ('Bilal Hassan', 'bilal.hassan@example.com', 'Male', '1995-07-30', 75000.00),
+-- ('Fatima Noor', 'fatima.noor@example.com', 'Female', '2001-03-19', 43000.25),
+-- ('Hamza Siddiqui', 'hamza.siddiqui@example.com', 'Male', '1996-12-05', 68000.00),
+-- ('Zainab Ali', 'zainab.ali@example.com', 'Female', '1998-08-17', 55000.00),
+-- ('Ahmed Raza', 'ahmed.raza@example.com', 'Male', '1994-01-10', 85000.00),
+-- ('Noor Fatima', 'noor.fatima@example.com', 'Female', '2002-06-25', 40000.00),
+-- ('Hassan Shah', 'hassan.shah@example.com', 'Male', '1993-10-15', 92000.00),
+-- ('Mariam Khan', 'mariam.khan@example.com', 'Female', '1997-04-28', 61000.50),
+-- ('Talha Iqbal', 'talha.iqbal@example.com', 'Male', '2000-01-07', 47000.00),
+-- ('Iqra Javed', 'iqra.javed@example.com', 'Female', '1999-09-13', 53000.75),
+-- ('Danish Akram', 'danish.akram@example.com', 'Male', '1996-05-22', 72000.00);
+
+INSERT INTO users (name, email, gender, date_of_birth, salary)
+VALUES
+('Ali Khan', 'ali.khan@example.com', 'Male', '1998-05-12', 45000.00),
+('Sara Ahmed', 'sara.ahmed@example.com', 'Female', '2000-09-21', 52000.50),
+('Usman Tariq', 'usman.tariq@example.com', 'Male', '1997-11-08', 60000.00),
+('Ayesha Malik', 'ayesha.malik@example.com', 'Female', '1999-02-14', 48000.75),
+('Bilal Hassan', 'bilal.hassan@example.com', 'Male', '1995-07-30', 75000.00),
+('Fatima Noor', 'fatima.noor@example.com', 'Female', '2001-03-19', 43000.25),
+('Hamza Siddiqui', 'hamza.siddiqui@example.com', 'Male', '1996-12-05', 68000.00),
+('Zainab Ali', 'zainab.ali@example.com', 'Female', '1998-08-17', 55000.00),
+('Ahmed Raza', 'ahmed.raza@example.com', 'Male', '1994-01-10', 85000.00),
+('Noor Fatima', 'noor.fatima@example.com', 'Female', '2002-06-25', 40000.00),
+
+('Hassan Shah', 'hassan.shah@example.com', 'Male', '1993-10-15', 92000.00),
+('Mariam Khan', 'mariam.khan@example.com', 'Female', '1997-04-28', 61000.50),
+('Talha Iqbal', 'talha.iqbal@example.com', 'Male', '2000-01-07', 47000.00),
+('Iqra Javed', 'iqra.javed@example.com', 'Female', '1999-09-13', 53000.75),
+('Danish Akram', 'danish.akram@example.com', 'Male', '1996-05-22', 72000.00),
+('Komal Sheikh', 'komal.sheikh@example.com', 'Female', '2001-11-11', 49000.00),
+('Saad Qureshi', 'saad.qureshi@example.com', 'Male', '1998-03-03', 65000.00),
+('Hira Aslam', 'hira.aslam@example.com', 'Female', '1997-12-19', 58000.50),
+('Umer Farooq', 'umer.farooq@example.com', 'Male', '1995-08-14', 78000.00),
+('Anum Tariq', 'anum.tariq@example.com', 'Female', '2000-06-09', 46000.00),
+
+('Shahzaib Khan', 'shahzaib.khan@example.com', 'Male', '1994-04-18', 88000.00),
+('Rabia Saleem', 'rabia.saleem@example.com', 'Female', '1999-01-25', 54000.00),
+('Asad Mehmood', 'asad.mehmood@example.com', 'Male', '1992-09-30', 98000.00),
+('Mahnoor Ali', 'mahnoor.ali@example.com', 'Female', '2001-07-12', 45000.00),
+('Fahad Siddiq', 'fahad.siddiq@example.com', 'Male', '1996-02-16', 70000.00),
+('Sania Khan', 'sania.khan@example.com', 'Female', '1998-10-05', 59000.00),
+('Adeel Rauf', 'adeel.rauf@example.com', 'Male', '1993-05-29', 83000.00),
+('Nimra Ashraf', 'nimra.ashraf@example.com', 'Female', '2002-04-22', 42000.00),
+('Jawad Malik', 'jawad.malik@example.com', 'Male', '1997-06-15', 67000.00),
+('Laiba Ahmed', 'laiba.ahmed@example.com', 'Female', '2000-12-08', 51000.00);
