@@ -16,3 +16,5 @@ BEGIN
    VALUES (NEW.id,NEW.name);
 END $$
 DELIMITER ;
+
+DROP TRIGGER IF EXISTS after_user_insert;
